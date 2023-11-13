@@ -1,6 +1,6 @@
-# Ejemplo Arquitectura Pipes And Filters
+# Example of pipes and filters application
 
-### Equipo:
+### Team:
 
 * Brayan Alfaro Gonzalez
 * Juan Antonio Solis Arguello
